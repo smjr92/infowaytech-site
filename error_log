@@ -1,0 +1,88 @@
+[18-Aug-2021 15:17:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1574
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1482): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hginf557/public_html/envia.php(20): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1574
+[18-Aug-2021 15:19:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1971
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', 'oi\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1971
+[18-Aug-2021 15:20:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1971
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', 'oi\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1971
+[18-Aug-2021 15:23:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1971
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', 'oi\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1971
+[18-Aug-2021 15:27:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1981
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', '1112\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1981
+[18-Aug-2021 15:32:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1981
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', '323232\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1981
+[18-Aug-2021 15:33:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1981
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', '111111111\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1981
+[18-Aug-2021 15:35:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1981
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', 'oi\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1981
+[18-Aug-2021 15:49:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1971
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', '11111\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1971
+[18-Aug-2021 16:11:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home1/hginf557/public_html/envia.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/hginf557/public_html/envia.php on line 22
+[18-Aug-2021 16:15:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1981
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 18 A...', '16:15 agora\r\n')
+#1 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home1/hginf557/public_html/envia.php(28): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1981
+[18-Aug-2021 16:18:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1539
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1482): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1539
+[18-Aug-2021 16:18:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php:1539
+Stack trace:
+#0 /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php(1482): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home1/hginf557/public_html/envia.php(27): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home1/hginf557/public_html/PHPMailer-master/src/PHPMailer.php on line 1539
+[18-Aug-2021 17:43:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/hginf557/public_html/PHPMailer-master/src/SMTP.php:279) in /home1/hginf557/public_html/envia.php on line 38
+[18-Aug-2021 17:45:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/hginf557/public_html/PHPMailer-master/src/SMTP.php:279) in /home1/hginf557/public_html/envia.php on line 38
+[19-Aug-2021 08:31:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/hginf557/public_html/PHPMailer-master/src/SMTP.php:279) in /home1/hginf557/public_html/envia.php on line 39
